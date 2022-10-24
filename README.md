@@ -1,7 +1,5 @@
 ## The app is designed to demonstrate a demo of a subscription newsletters using nodejs and Mailchimp.
 
-<br />
-
 ### An API key is needed for the application to function properly. To create your own API key, you need to:
 
 1. _Create a Mailchimp account, if you don't have one_
